@@ -1,0 +1,23 @@
+{
+  "name": "cardapioleonardo",
+  "version": "1.0.0",
+  "description": "Cardápio online",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch assets/sass:assets/css"
+  },
+  "keywords": [
+    "html5",
+    "cardapio",
+    "I.R.O.T.I",
+    "unlock_social"
+  ],
+  "author": "Luiz Gustavo",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
